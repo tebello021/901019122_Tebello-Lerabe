@@ -3,13 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "axios": "^1.5.0",
-    "bootstrap": "^5.3.0",
     "react": "^18.2.0",
-    "react-bootstrap": "^2.8.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^5.1.0"
+    "bootstrap": "^5.3.0",
+    "react-bootstrap": "^2.8.0",
+    "axios": "^1.5.0",
+    "web-vitals": "^3.3.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -18,8 +18,8 @@
     "eject": "react-scripts eject"
   },
   "engines": {
-    "node": "18.x",
-    "npm": "9.x"
+    "node": "22.x",
+    "npm": "10.x"
   },
   "browserslist": {
     "production": [
