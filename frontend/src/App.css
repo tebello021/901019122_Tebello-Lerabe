@@ -1,0 +1,26 @@
+.App {
+  min-height: 100vh;
+  background-color: #e3f2fd;
+}
+
+/* Fixed Footer Styles */
+.fixed-footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+}
+
+/* Ensure content doesn't get hidden behind footer */
+.main-content {
+  padding-bottom: 80px;
+}
+
+.min-vh-100 {
+  min-height: 100vh;
+}
+
+.flex-grow-1 {
+  flex-grow: 1;
+}
